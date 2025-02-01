@@ -1,8 +1,3 @@
-
-export function TodoCard(){
-    return (
-    <div>
-
-    </div>
-     )
+export function TodoCard() {
+  return <div></div>;
 }
